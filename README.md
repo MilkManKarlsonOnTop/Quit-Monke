@@ -1,6 +1,6 @@
 # Quit-Monke
 
-📌report any bugs to slav XpXz#5230 📌
+📌report any bugs to slav XpXz#0001 📌
 
 
 # What is this?
